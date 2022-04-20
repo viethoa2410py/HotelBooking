@@ -1,0 +1,4 @@
+{"logTime": "0328/051730", "correlationVector":"x5e0HijmCLFDfDRMlu/MwG.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "0328/051730", "correlationVector":"BRKcudR/WNE0Us8Ognzhbw.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|109", "server":"BN3PEPF00000896"}}
+{"logTime": "0328/051730", "correlationVector":"BRKcudR/WNE0Us8Ognzhbw","action":"Initial GetUpdates", "result":""}
+{"logTime": "0328/051730", "correlationVector":"BRKcudR/WNE0Us8Ognzhbw.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
